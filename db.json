@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "email": "rahul.bhavsar@ascentinfo.solutions",
+      "password": "DFSD",
+      "id": 7
+    },
+    {
+      "email": "rahulbhavsar1210@gmail.com",
+      "password": "FDASFSA",
+      "id": 8
+    },
+    {
+      "email": "rahulbhavsar1210@gmail.com",
+      "password": "fdsaaaf",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
